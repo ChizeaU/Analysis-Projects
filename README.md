@@ -1,4 +1,5 @@
 Analysis Projects Repository
+
 This repository contains a collection of analysis projects that I have worked on. Each project focuses on exploring, analyzing, and interpreting data to derive insights and inform decision-making processes.
 
 Table of Contents
